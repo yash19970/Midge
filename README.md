@@ -1,0 +1,2 @@
+# MidgeGame
+This is a game which consists of Flies and Bugs, Bugs can shoot the Flies and either they are frozed or burned. This is created in Python, using Pygame library In order to run this you need to install pygame version 1.9.1 and python 2.7 you can install pygame from pygame.org Consists of 3 Files: 1. Main (consists of the main functions and overhead) 2. Classes (consists of all the classes) 3. process (logic of the game resides here) Your suggestions are always encouraged.
